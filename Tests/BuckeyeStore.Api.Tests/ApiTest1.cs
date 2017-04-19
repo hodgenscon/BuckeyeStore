@@ -1,9 +1,9 @@
 using System;
 using Xunit;
 
-namespace BuckeyeStore.Core.Tests
+namespace BuckeyeStore.Api.Tests
 {
-    public class UnitTest1
+    public class ApiTest1
     {
         [Fact]
         public void Test1()

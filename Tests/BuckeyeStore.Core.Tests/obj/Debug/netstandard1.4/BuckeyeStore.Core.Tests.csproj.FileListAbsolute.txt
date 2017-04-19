@@ -1,0 +1,2 @@
+C:\amis3610\BuckeyeStore\tests\BuckeyeStore.Core.Tests\bin\Debug\netstandard1.4\BuckeyeStore.Core.Tests.deps.json
+C:\amis3610\BuckeyeStore\tests\BuckeyeStore.Core.Tests\obj\Debug\netstandard1.4\BuckeyeStore.Core.Tests.AssemblyInfo.cs
